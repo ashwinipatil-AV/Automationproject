@@ -31,3 +31,10 @@ class c extends A{
 		 System.out.println("c Runner class");
 	}
 }
+class cD extends A{
+	
+	public  void test1()
+	{
+		 System.out.println("c Runner class");
+	}
+}
